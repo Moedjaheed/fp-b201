@@ -1,4 +1,4 @@
-# Dokumentasi Delete Pokemon
+# Dokumentasi Delete Youtuber
 ## **Method :**  `DELETE`
 ## **Route :**  `127.0.0.1/api/<id>`
 ## **Authentication :**  `JWT`
