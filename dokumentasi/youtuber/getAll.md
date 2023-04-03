@@ -1,4 +1,4 @@
-# Dokumentasi Get All Pokemon Youtuber
+# Dokumentasi Get All Youtuber
 ## **Method :**  `GET`
 ## **Route :**  `127.0.0.1/api`
 ## **Authentication :**  `None`
