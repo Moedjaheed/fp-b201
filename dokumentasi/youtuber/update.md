@@ -1,4 +1,4 @@
-# Dokumentasi Update Pokemon
+# Dokumentasi Update Youtuber
 ## **Method :**  `PUT`
 ## **Route :**  `127.0.0.1/api/<id>`
 ## **Authentication :**  `JWT`
