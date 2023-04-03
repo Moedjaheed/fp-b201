@@ -2,7 +2,7 @@
 ## **Method :**  `PUT`
 ## **Route :**  `127.0.0.1/api/<id>`
 ## **Authentication :**  `JWT`
-Endpoint ini berfungsi untuk mengubah data dari sebuah pokemon melalui nama. Autentikasi dilakukan agar hanya admin yang dapat melakukan perubahan data
+Endpoint ini berfungsi untuk mengubah data dari youtuber berdasarkan id. Autentikasi dilakukan agar hanya admin yang dapat melakukan perubahan data
 
 ## **Body :** 
 ```json
