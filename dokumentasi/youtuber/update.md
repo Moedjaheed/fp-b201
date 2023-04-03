@@ -19,7 +19,13 @@ Endpoint ini berfungsi untuk mengubah data dari youtuber berdasarkan id. Autenti
 #### *Example :* 
 ```json
 {
-    "hp" : 500
+	"Rank": 1,
+	"Channel": "asdfg",
+	"Subscribers": "234,000,000",
+	"Video Views": "212,900,271,553",
+	"Video Count": "18,515",
+	"Category": "Music",
+	"Started": 2006
 }
 ```
 
@@ -31,7 +37,7 @@ Endpoint ini berfungsi untuk mengubah data dari youtuber berdasarkan id. Autenti
     {
     "message": "Edit data berhasil",
     "data": {
-        "id": 1001,
+        	    "id": 1001,
 		    "Rank": 1,
 		    "Channel": "asdfg",
 		    "Subscribers": "234,000,000",
