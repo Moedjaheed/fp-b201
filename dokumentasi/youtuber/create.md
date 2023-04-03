@@ -46,7 +46,7 @@ Endpoint ini berfungsi untuk menambahkan data youtuber baru. Autentikasi dilakuk
             "views": 21290027155,
             "count": 1851512,
             "category": "Music",
-            "started": 2006,
+            "started": 2006
         }]
     }
     ```
