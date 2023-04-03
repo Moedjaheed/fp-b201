@@ -4,6 +4,7 @@ Terdapat 1000 data channel youtube teratas di dalamnya.
 API ini dibuat dengan menggunakan Python dan SQL.
 Di dalam API ini terdapat 2 jenis endpoint, yaitu yang terbuka untuk umum dan yang memerlukan autentikasi berupa token JTW.
 Untuk melakukan request, dapat dilakukan dengan mengakses ip berikut :
+
 **IP** : (`127.0.0.1`)
 
 Dalam API ini terdapat beberapa endpoint yang dapat dikelompokkan menjadi 2 :
