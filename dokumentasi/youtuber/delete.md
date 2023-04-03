@@ -1,8 +1,8 @@
 # Dokumentasi Delete Pokemon
 ## **Method :**  `DELETE`
-## **Route :**  `127.0.0.1/api`
+## **Route :**  `127.0.0.1/api/<id>`
 ## **Authentication :**  `JWT`
-Endpoint ini berfungsi untuk menghapus data youtuber yang telah ada. Autentikasi dilakukan agar hanya admin yang dapat menghapus data tersebut. 
+Endpoint ini berfungsi untuk menghapus data youtuber yang telah ada berdasarkan id. Autentikasi dilakukan agar hanya admin yang dapat menghapus data tersebut. 
 
 ## **Response :**
 
