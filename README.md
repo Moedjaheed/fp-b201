@@ -14,12 +14,12 @@ Dalam API ini terdapat beberapa endpoint yang dapat dikelompokkan menjadi 2 :
   
 # Endpoint User
 Endpoint ini menghandle mengenai data user
-  * Post Login User : `POST 127.0.0.1/api/login`
+  * [Post Login User](user/login.md) : `POST 127.0.0.1/api/login`
   
 # Endpoint Youtuber
 Endpoint ini menghandle mengenai data youtuber
-  * Create Data Youtuber (NEED AUTHENTICATION) : `POST 127.0.0.1/api`
-  * Get Semua Youtuber : `GET 127.0.0.1/api`
-  * Update Youtuber (NEED AUTHENTICATION) : `PUT 127.0.0.1/api`
-  * Delete Youtuber (NEED AUTHENTICATION) : `DELETE 127.0.0.1/api`
-  * Delete Semua Youtuber (NEED AUTHENTICATION) : `DELETE 127.0.0.1/api`
+  * [Create Data Youtuber (NEED AUTHENTICATION)](youtuber/create.md) : `POST 127.0.0.1/api`
+  * [Get Semua Youtuber](youtuber/getAll.md) : `GET 127.0.0.1/api`
+  * [Update Youtuber (NEED AUTHENTICATION)](youtuber/update.md) : `PUT 127.0.0.1/api`
+  * [Delete Youtuber (NEED AUTHENTICATION)](youtuber/delete.md) : `DELETE 127.0.0.1/api`
+  * [Delete Semua Youtuber (NEED AUTHENTICATION)](youtuber/deleteAll.md) : `DELETE 127.0.0.1/api`
