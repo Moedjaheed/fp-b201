@@ -1,6 +1,6 @@
-# Dokumentasi Get All Pokemon Data
+# Dokumentasi Get All Pokemon Youtuber
 ## **Method :**  `GET`
-## **Route :**  `34.101.143.244/api/pokemon?page=1&limit=1`
+## **Route :**  `127.0.0.1/api`
 ## **Authentication :**  `None`
 Endpoint ini berfungsi untuk mendapatkan seluruh data youtuber. Otomatis semua data akan ditampilkan.
 
